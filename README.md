@@ -2,6 +2,10 @@
 
 KiCad schematics for a custom harness compatible with **comma.ai** devices (e.g., **comma 3X**, **Panda Red**) for the **first-generation Volvo V60**.
 
+> [!NOTE]
+> Lukas Loetkolben now sells an Harness for P3 in his [Shop](https://xnor.shop/products/volvo-p3-harness)!
+
+
 ## Files Included
 
 - `18.kicad_sch` – 18-pin version (V3)
